@@ -1,4 +1,4 @@
-#🛡️ AWS Admin Panel for Jira (Forge App)
+🛡️ AWS Admin Panel for Jira (Forge App)
 A custom-built Atlassian Forge app that embeds an AWS Admin Window directly into Jira as a project page. This application is designed to help Jira administrators manage AWS user accounts efficiently — supporting full Create, Read, Update, and Delete (CRUD) operations — all within the Jira interface.
 
 Built using React with Forge Custom UI, this tool mirrors the secure and auditable workflows commonly seen in AWS services. At the end of every operation, users are required to enter a "Change Item Name" to confirm the action, ensuring accountability and reducing the risk of accidental changes.
